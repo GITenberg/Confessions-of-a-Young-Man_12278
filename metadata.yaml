@@ -1,0 +1,32 @@
+_repo: Confessions-of-a-Young-Man_12278
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moore, George Augustus
+    aliases:
+    - Moore, George Augustus
+    - Rhone, Lady
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '1366'
+    url: http://www.gutenberg.org/2009/agents/1366
+    wikipedia: http://en.wikipedia.org/wiki/George_Moore_(novelist)
+description: In this semi-autobiographical work, published in 1881, Moore details
+  his years as a struggling artist in Paris and London. The volume relates bohemian
+  life in Paris in the 1870s and 1880s, and is one of the first English books to introduce
+  many of the French Impressionist artists who are known today as giants in the field.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Intellectual life'
+- !lcc 'PR'
+- !lcsh 'Moore, George, 1852-1933'
+- GITenberg
+title: Confessions of a Young Man
+url: http://www.gutenberg.org/ebooks/12278
